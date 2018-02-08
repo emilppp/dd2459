@@ -1,6 +1,4 @@
 public class BinarySearch {
-
-
     public static int search(int[] a, int key) {
         int x = 0;
         int l = 1;
