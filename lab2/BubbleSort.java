@@ -1,5 +1,3 @@
-import java.util.Arrays;
-import java.util.List;
 public class BubbleSort {
 
     public static int[] sort(int[] A) {
