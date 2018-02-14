@@ -15,21 +15,6 @@ public class BinarySearch {
         else 
             return -1;
     }
-
-    // public static int[] sort(int[] A) {
-    // int n = A.length;
-    // boolean swapped = false;
-    // for(int i = 0; i < n; i++) {
-    //     for(int j = 1; j < (n-i); j++) {
-    //         if(A[j-1] > A[j]) {
-    //             int tmp = A[j-1];
-    //             A[j-1] = A[j];
-    //             A[j] = tmp;       
-    //         }    
-    //     }
-    // }
-    // return A;
-    // }
     
     public static void main(String[] args) {
         int[] A = {1, 4, 5, 6, 7, 8, 9, 12, 1337, 9000};
